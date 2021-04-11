@@ -1,128 +1,128 @@
-flight_id,scheduled_departure,scheduled_arrival,arrival_airport,model,total_amount,tickets_num,seats_num,arrival_delay,departure_delay,flight_time
-136560,2017-01-24T06:10:00Z,2017-01-24T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 5 hours 5 mins 0.00 secs
-136540,2017-01-17T06:10:00Z,2017-01-17T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 5 hours 7 mins 0.00 secs
-136544,2017-01-31T06:10:00Z,2017-01-31T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours -1 mins -0.00 secs,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 5 hours 4 mins 0.00 secs
-136513,2017-02-28T06:10:00Z,2017-02-28T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours 8 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 5 hours 10 mins 0.00 secs
-136546,2017-01-03T06:10:00Z,2017-01-03T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 5 hours 2 mins 0.00 secs
-136567,2017-02-14T06:10:00Z,2017-02-14T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours 8 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 5 hours 11 mins 0.00 secs
-136514,2017-02-07T06:10:00Z,2017-02-07T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours -2 mins -0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 4 hours 59 mins 0.00 secs
-136523,2017-01-10T06:10:00Z,2017-01-10T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours 11 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 5 hours 12 mins 0.00 secs
-136511,2017-02-21T06:10:00Z,2017-02-21T11:15:00Z,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 0 hours 10 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 5 hours 10 mins 0.00 secs
-136642,2017-01-30T09:25:00Z,2017-01-30T10:15:00Z,EGO,Sukhoi Superjet-100,51507000.00,64,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136807,2017-02-23T09:25:00Z,2017-02-23T10:15:00Z,EGO,Sukhoi Superjet-100,51507000.00,68,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136922,2017-02-11T09:25:00Z,2017-02-11T10:15:00Z,EGO,Sukhoi Superjet-100,58956600.00,76,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136887,2017-01-20T09:25:00Z,2017-01-20T10:15:00Z,EGO,Sukhoi Superjet-100,57734400.00,78,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136823,2017-02-05T09:25:00Z,2017-02-05T10:15:00Z,EGO,Sukhoi Superjet-100,60178800.00,78,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136888,2017-02-14T09:25:00Z,2017-02-14T10:15:00Z,EGO,Sukhoi Superjet-100,60731700.00,79,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136844,2017-02-28T09:25:00Z,2017-02-28T10:15:00Z,EGO,Sukhoi Superjet-100,55784700.00,79,97,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136620,2017-02-17T09:25:00Z,2017-02-17T10:15:00Z,EGO,Sukhoi Superjet-100,59509500.00,79,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136678,2017-01-28T09:25:00Z,2017-01-28T10:15:00Z,EGO,Sukhoi Superjet-100,61226400.00,80,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136609,2017-01-08T09:25:00Z,2017-01-08T10:15:00Z,EGO,Sukhoi Superjet-100,62012100.00,81,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136937,2017-01-03T09:25:00Z,2017-01-03T10:15:00Z,EGO,Sukhoi Superjet-100,60731700.00,81,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136936,2017-01-02T09:25:00Z,2017-01-02T10:15:00Z,EGO,Sukhoi Superjet-100,61342800.00,82,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136645,2017-01-05T09:25:00Z,2017-01-05T10:15:00Z,EGO,Sukhoi Superjet-100,61401000.00,82,97,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136767,2017-01-23T09:25:00Z,2017-01-23T10:15:00Z,EGO,Sukhoi Superjet-100,63176100.00,83,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136838,2017-01-24T09:25:00Z,2017-01-24T10:15:00Z,EGO,Sukhoi Superjet-100,65009400.00,86,97,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136666,2017-02-09T09:25:00Z,2017-02-09T10:15:00Z,EGO,Sukhoi Superjet-100,64456500.00,87,97,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136660,2017-02-20T09:25:00Z,2017-02-20T10:15:00Z,EGO,Sukhoi Superjet-100,65678700.00,87,97,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136709,2017-01-15T09:25:00Z,2017-01-15T10:15:00Z,EGO,Sukhoi Superjet-100,66900900.00,87,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136855,2017-01-11T09:25:00Z,2017-01-11T10:15:00Z,EGO,Sukhoi Superjet-100,68123100.00,87,97,0 years 0 mons 0 days 2 hours 42 mins 0.00 secs,0 years 0 mons 0 days 2 hours 42 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136861,2017-02-12T09:25:00Z,2017-02-12T10:15:00Z,EGO,Sukhoi Superjet-100,66842700.00,87,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136769,2017-02-10T09:25:00Z,2017-02-10T10:15:00Z,EGO,Sukhoi Superjet-100,67512000.00,88,97,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136729,2017-01-29T09:25:00Z,2017-01-29T10:15:00Z,EGO,Sukhoi Superjet-100,67453800.00,88,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136780,2017-02-24T09:25:00Z,2017-02-24T10:15:00Z,EGO,Sukhoi Superjet-100,69345300.00,89,97,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136754,2017-02-06T09:25:00Z,2017-02-06T10:15:00Z,EGO,Sukhoi Superjet-100,69956400.00,90,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136951,2017-02-02T09:25:00Z,2017-02-02T10:15:00Z,EGO,Sukhoi Superjet-100,69898200.00,90,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136632,2017-01-07T09:25:00Z,2017-01-07T10:15:00Z,EGO,Sukhoi Superjet-100,69287100.00,91,97,0 years 0 mons 0 days 3 hours 18 mins 0.00 secs,0 years 0 mons 0 days 3 hours 17 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136630,2017-02-25T09:25:00Z,2017-02-25T10:15:00Z,EGO,Sukhoi Superjet-100,72400800.00,94,97,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136733,2017-01-09T09:25:00Z,2017-01-09T10:15:00Z,EGO,Sukhoi Superjet-100,72400800.00,94,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136612,2017-02-21T09:25:00Z,2017-02-21T10:15:00Z,EGO,Sukhoi Superjet-100,72400800.00,94,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136571,2017-01-25T09:25:00Z,2017-01-25T10:15:00Z,EGO,Sukhoi Superjet-100,73011900.00,95,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136669,2017-01-17T09:25:00Z,2017-01-17T10:15:00Z,EGO,Sukhoi Superjet-100,73011900.00,95,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136706,2017-01-06T09:25:00Z,2017-01-06T10:15:00Z,EGO,Sukhoi Superjet-100,71789700.00,95,97,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136720,2017-01-26T09:25:00Z,2017-01-26T10:15:00Z,EGO,Sukhoi Superjet-100,73011900.00,95,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136956,2017-02-04T09:25:00Z,2017-02-04T10:15:00Z,EGO,Sukhoi Superjet-100,72400800.00,96,97,0 years 0 mons 0 days 0 hours 8 mins 0.00 secs,0 years 0 mons 0 days 0 hours 8 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136586,2017-01-10T09:25:00Z,2017-01-10T10:15:00Z,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136649,2017-01-18T09:25:00Z,2017-01-18T10:15:00Z,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136654,2017-01-19T09:25:00Z,2017-01-19T10:15:00Z,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136661,2017-01-01T09:25:00Z,2017-01-01T10:15:00Z,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136672,2017-02-03T09:25:00Z,2017-02-03T10:15:00Z,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136778,2017-02-22T09:25:00Z,2017-02-22T10:15:00Z,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136802,2017-02-26T09:25:00Z,2017-02-26T10:15:00Z,EGO,Sukhoi Superjet-100,72400800.00,96,97,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136819,2017-01-04T09:25:00Z,2017-01-04T10:15:00Z,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136907,2017-01-16T09:25:00Z,2017-01-16T10:15:00Z,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136755,2017-01-21T09:25:00Z,2017-01-21T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136875,2017-02-16T09:25:00Z,2017-02-16T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136871,2017-01-13T09:25:00Z,2017-01-13T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136869,2017-01-31T09:25:00Z,2017-01-31T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136857,2017-02-13T09:25:00Z,2017-02-13T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136360,2017-02-05T10:05:00Z,2017-02-05T11:45:00Z,SVO,Boeing 737-300,189202000.00,97,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136841,2017-02-07T09:25:00Z,2017-02-07T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136900,2017-02-01T09:25:00Z,2017-02-01T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136600,2017-02-08T09:25:00Z,2017-02-08T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136605,2017-02-15T09:25:00Z,2017-02-15T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136827,2017-02-18T09:25:00Z,2017-02-18T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136953,2017-02-27T09:25:00Z,2017-02-27T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136815,2017-02-19T09:25:00Z,2017-02-19T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136781,2017-01-14T09:25:00Z,2017-01-14T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
-136122,2017-01-08T10:05:00Z,2017-01-08T11:45:00Z,SVO,Boeing 737-300,186030000.00,97,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136927,2017-01-22T09:25:00Z,2017-01-22T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
-136758,2017-01-12T09:25:00Z,2017-01-12T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136757,2017-01-27T09:25:00Z,2017-01-27T10:15:00Z,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
-136250,2017-02-08T10:05:00Z,2017-02-08T11:45:00Z,SVO,Boeing 737-300,183014000.00,99,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
-136178,2017-01-29T10:05:00Z,2017-01-29T11:45:00Z,SVO,Boeing 737-300,186498000.00,99,130,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136202,2017-01-05T10:05:00Z,2017-01-05T11:45:00Z,SVO,Boeing 737-300,194428000.00,100,130,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 42 mins 0.00 secs
-136464,2017-01-09T10:05:00Z,2017-01-09T11:45:00Z,SVO,Boeing 737-300,181740000.00,100,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136366,2017-01-11T10:05:00Z,2017-01-11T11:45:00Z,SVO,Boeing 737-300,198562000.00,103,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136185,2017-01-14T10:05:00Z,2017-01-14T11:45:00Z,SVO,Boeing 737-300,197600000.00,104,130,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 1 hours 43 mins 0.00 secs
-136420,2017-01-01T10:05:00Z,2017-01-01T11:45:00Z,SVO,Boeing 737-300,200460000.00,104,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 1 hours 38 mins 0.00 secs
-136351,2017-02-26T10:05:00Z,2017-02-26T11:45:00Z,SVO,Boeing 737-300,202202000.00,105,130,0 years 0 mons 0 days 0 hours 8 mins 0.00 secs,0 years 0 mons 0 days 0 hours 8 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136383,2017-01-25T10:05:00Z,2017-01-25T11:45:00Z,SVO,Boeing 737-300,194116000.00,106,130,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 1 hours 42 mins 0.00 secs
-136485,2017-01-27T10:05:00Z,2017-01-27T11:45:00Z,SVO,Boeing 737-300,197600000.00,106,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136282,2017-01-16T10:05:00Z,2017-01-16T11:45:00Z,SVO,Boeing 737-300,197444000.00,106,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
-136320,2017-02-19T10:05:00Z,2017-02-19T11:45:00Z,SVO,Boeing 737-300,200772000.00,106,130,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136486,2017-02-02T10:05:00Z,2017-02-02T11:45:00Z,SVO,Boeing 737-300,195702000.00,107,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
-136204,2017-02-23T10:05:00Z,2017-02-23T11:45:00Z,SVO,Boeing 737-300,189514000.00,107,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136130,2017-02-13T10:05:00Z,2017-02-13T11:45:00Z,SVO,Boeing 737-300,202358000.00,107,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136345,2017-01-24T10:05:00Z,2017-01-24T11:45:00Z,SVO,Boeing 737-300,197288000.00,108,130,0 years 0 mons 0 days 3 hours 27 mins 0.00 secs,0 years 0 mons 0 days 3 hours 27 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136322,2017-02-06T10:05:00Z,2017-02-06T11:45:00Z,SVO,Boeing 737-300,203788000.00,108,130,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
-136266,2017-02-27T10:05:00Z,2017-02-27T11:45:00Z,SVO,Boeing 737-300,203632000.00,108,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136452,2017-02-17T10:05:00Z,2017-02-17T11:45:00Z,SVO,Boeing 737-300,208390000.00,109,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136269,2017-02-11T10:05:00Z,2017-02-11T11:45:00Z,SVO,Boeing 737-300,208702000.00,109,130,0 years 0 mons 0 days 0 hours 8 mins 0.00 secs,0 years 0 mons 0 days 0 hours 8 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136120,2017-02-24T10:05:00Z,2017-02-24T11:45:00Z,SVO,Boeing 737-300,208702000.00,109,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136146,2017-02-09T10:05:00Z,2017-02-09T11:45:00Z,SVO,Boeing 737-300,208546000.00,109,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136172,2017-01-15T10:05:00Z,2017-01-15T11:45:00Z,SVO,Boeing 737-300,210288000.00,110,130,0 years 0 mons 0 days 0 hours -1 mins -0.00 secs,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136411,2017-02-04T10:05:00Z,2017-02-04T11:45:00Z,SVO,Boeing 737-300,206804000.00,110,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136458,2017-01-02T10:05:00Z,2017-01-02T11:45:00Z,SVO,Boeing 737-300,203944000.00,110,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136165,2017-02-22T10:05:00Z,2017-02-22T11:45:00Z,SVO,Boeing 737-300,203788000.00,110,130,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
-136270,2017-02-12T10:05:00Z,2017-02-12T11:45:00Z,SVO,Boeing 737-300,211718000.00,111,130,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136209,2017-01-06T10:05:00Z,2017-01-06T11:45:00Z,SVO,Boeing 737-300,209976000.00,112,130,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136119,2017-01-03T10:05:00Z,2017-01-03T11:45:00Z,SVO,Boeing 737-300,214890000.00,113,130,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
-136215,2017-02-28T10:05:00Z,2017-02-28T11:45:00Z,SVO,Boeing 737-300,216320000.00,114,130,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136293,2017-01-23T10:05:00Z,2017-01-23T11:45:00Z,SVO,Boeing 737-300,219648000.00,114,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136159,2017-01-04T10:05:00Z,2017-01-04T11:45:00Z,SVO,Boeing 737-300,221078000.00,115,130,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 38 mins 0.00 secs
-136268,2017-02-16T10:05:00Z,2017-02-16T11:45:00Z,SVO,Boeing 737-300,217906000.00,115,130,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
-136428,2017-01-21T10:05:00Z,2017-01-21T11:45:00Z,SVO,Boeing 737-300,218218000.00,115,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136135,2017-02-01T10:05:00Z,2017-02-01T11:45:00Z,SVO,Boeing 737-300,218218000.00,115,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136264,2017-02-18T10:05:00Z,2017-02-18T11:45:00Z,SVO,Boeing 737-300,219804000.00,116,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136132,2017-02-15T10:05:00Z,2017-02-15T11:45:00Z,SVO,Boeing 737-300,222820000.00,116,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 4 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136284,2017-02-07T10:05:00Z,2017-02-07T11:45:00Z,SVO,Boeing 737-300,218062000.00,117,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
-136439,2017-02-25T10:05:00Z,2017-02-25T11:45:00Z,SVO,Boeing 737-300,221234000.00,117,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136310,2017-01-22T10:05:00Z,2017-01-22T11:45:00Z,SVO,Boeing 737-300,215046000.00,117,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136181,2017-01-31T10:05:00Z,2017-01-31T11:45:00Z,SVO,Boeing 737-300,219648000.00,118,130,0 years 0 mons 0 days 0 hours -1 mins -0.00 secs,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136164,2017-01-07T10:05:00Z,2017-01-07T11:45:00Z,SVO,Boeing 737-300,225992000.00,120,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136348,2017-02-10T10:05:00Z,2017-02-10T11:45:00Z,SVO,Boeing 737-300,229164000.00,120,130,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136471,2017-01-17T10:05:00Z,2017-01-17T11:45:00Z,SVO,Boeing 737-300,229164000.00,120,130,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 0 hours 6 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136387,2017-01-19T10:05:00Z,2017-01-19T11:45:00Z,SVO,Boeing 737-300,230750000.00,121,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136479,2017-02-21T10:05:00Z,2017-02-21T11:45:00Z,SVO,Boeing 737-300,225992000.00,122,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136463,2017-01-20T10:05:00Z,2017-01-20T11:45:00Z,SVO,Boeing 737-300,232492000.00,122,130,0 years 0 mons 0 days 0 hours 0 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136249,2017-02-14T10:05:00Z,2017-02-14T11:45:00Z,SVO,Boeing 737-300,234078000.00,123,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 38 mins 0.00 secs
-136436,2017-01-26T10:05:00Z,2017-01-26T11:45:00Z,SVO,Boeing 737-300,235508000.00,124,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136131,2017-01-28T10:05:00Z,2017-01-28T11:45:00Z,SVO,Boeing 737-300,235664000.00,124,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
-136275,2017-01-13T10:05:00Z,2017-01-13T11:45:00Z,SVO,Boeing 737-300,237250000.00,125,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 38 mins 0.00 secs
-136441,2017-02-03T10:05:00Z,2017-02-03T11:45:00Z,SVO,Boeing 737-300,238836000.00,128,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136423,2017-01-10T10:05:00Z,2017-01-10T11:45:00Z,SVO,Boeing 737-300,240422000.00,129,130,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 0 hours 7 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136389,2017-01-18T10:05:00Z,2017-01-18T11:45:00Z,SVO,Boeing 737-300,243594000.00,129,130,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 0 hours 5 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136403,2017-02-20T10:05:00Z,2017-02-20T11:45:00Z,SVO,Boeing 737-300,243594000.00,129,130,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 0 hours 1 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136226,2017-01-30T10:05:00Z,2017-01-30T11:45:00Z,SVO,Boeing 737-300,245180000.00,130,130,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 0 hours 3 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
-136316,2017-01-12T10:05:00Z,2017-01-12T11:45:00Z,SVO,Boeing 737-300,245180000.00,130,130,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 0 hours 2 mins 0.00 secs,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+flight_id,departure_airport,arrival_airport,model,total_amount,tickets_num,seats_num,flight_time
+136119,AAQ,SVO,Boeing 737-300,214890000.00,113,130,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
+136120,AAQ,SVO,Boeing 737-300,208702000.00,109,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136122,AAQ,SVO,Boeing 737-300,186030000.00,97,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136130,AAQ,SVO,Boeing 737-300,202358000.00,107,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136131,AAQ,SVO,Boeing 737-300,235664000.00,124,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136132,AAQ,SVO,Boeing 737-300,222820000.00,116,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136135,AAQ,SVO,Boeing 737-300,218218000.00,115,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136146,AAQ,SVO,Boeing 737-300,208546000.00,109,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136159,AAQ,SVO,Boeing 737-300,221078000.00,115,130,0 years 0 mons 0 days 1 hours 38 mins 0.00 secs
+136164,AAQ,SVO,Boeing 737-300,225992000.00,120,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136165,AAQ,SVO,Boeing 737-300,203788000.00,110,130,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
+136172,AAQ,SVO,Boeing 737-300,210288000.00,110,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136178,AAQ,SVO,Boeing 737-300,186498000.00,99,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136181,AAQ,SVO,Boeing 737-300,219648000.00,118,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136185,AAQ,SVO,Boeing 737-300,197600000.00,104,130,0 years 0 mons 0 days 1 hours 43 mins 0.00 secs
+136202,AAQ,SVO,Boeing 737-300,194428000.00,100,130,0 years 0 mons 0 days 1 hours 42 mins 0.00 secs
+136204,AAQ,SVO,Boeing 737-300,189514000.00,107,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136209,AAQ,SVO,Boeing 737-300,209976000.00,112,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136215,AAQ,SVO,Boeing 737-300,216320000.00,114,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136226,AAQ,SVO,Boeing 737-300,245180000.00,130,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136249,AAQ,SVO,Boeing 737-300,234078000.00,123,130,0 years 0 mons 0 days 1 hours 38 mins 0.00 secs
+136250,AAQ,SVO,Boeing 737-300,183014000.00,99,130,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
+136264,AAQ,SVO,Boeing 737-300,219804000.00,116,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136266,AAQ,SVO,Boeing 737-300,203632000.00,108,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136268,AAQ,SVO,Boeing 737-300,217906000.00,115,130,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
+136269,AAQ,SVO,Boeing 737-300,208702000.00,109,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136270,AAQ,SVO,Boeing 737-300,211718000.00,111,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136275,AAQ,SVO,Boeing 737-300,237250000.00,125,130,0 years 0 mons 0 days 1 hours 38 mins 0.00 secs
+136282,AAQ,SVO,Boeing 737-300,197444000.00,106,130,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
+136284,AAQ,SVO,Boeing 737-300,218062000.00,117,130,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
+136293,AAQ,SVO,Boeing 737-300,219648000.00,114,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136310,AAQ,SVO,Boeing 737-300,215046000.00,117,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136316,AAQ,SVO,Boeing 737-300,245180000.00,130,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136320,AAQ,SVO,Boeing 737-300,200772000.00,106,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136322,AAQ,SVO,Boeing 737-300,203788000.00,108,130,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
+136345,AAQ,SVO,Boeing 737-300,197288000.00,108,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136348,AAQ,SVO,Boeing 737-300,229164000.00,120,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136351,AAQ,SVO,Boeing 737-300,202202000.00,105,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136360,AAQ,SVO,Boeing 737-300,189202000.00,97,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136366,AAQ,SVO,Boeing 737-300,198562000.00,103,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136383,AAQ,SVO,Boeing 737-300,194116000.00,106,130,0 years 0 mons 0 days 1 hours 42 mins 0.00 secs
+136387,AAQ,SVO,Boeing 737-300,230750000.00,121,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136389,AAQ,SVO,Boeing 737-300,243594000.00,129,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136403,AAQ,SVO,Boeing 737-300,243594000.00,129,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136411,AAQ,SVO,Boeing 737-300,206804000.00,110,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136420,AAQ,SVO,Boeing 737-300,200460000.00,104,130,0 years 0 mons 0 days 1 hours 38 mins 0.00 secs
+136423,AAQ,SVO,Boeing 737-300,240422000.00,129,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136428,AAQ,SVO,Boeing 737-300,218218000.00,115,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136436,AAQ,SVO,Boeing 737-300,235508000.00,124,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136439,AAQ,SVO,Boeing 737-300,221234000.00,117,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136441,AAQ,SVO,Boeing 737-300,238836000.00,128,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136452,AAQ,SVO,Boeing 737-300,208390000.00,109,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136458,AAQ,SVO,Boeing 737-300,203944000.00,110,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136463,AAQ,SVO,Boeing 737-300,232492000.00,122,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136464,AAQ,SVO,Boeing 737-300,181740000.00,100,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136471,AAQ,SVO,Boeing 737-300,229164000.00,120,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136479,AAQ,SVO,Boeing 737-300,225992000.00,122,130,0 years 0 mons 0 days 1 hours 39 mins 0.00 secs
+136485,AAQ,SVO,Boeing 737-300,197600000.00,106,130,0 years 0 mons 0 days 1 hours 40 mins 0.00 secs
+136486,AAQ,SVO,Boeing 737-300,195702000.00,107,130,0 years 0 mons 0 days 1 hours 41 mins 0.00 secs
+136511,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 5 hours 10 mins 0.00 secs
+136513,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 5 hours 10 mins 0.00 secs
+136514,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 4 hours 59 mins 0.00 secs
+136523,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 5 hours 12 mins 0.00 secs
+136540,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 5 hours 7 mins 0.00 secs
+136544,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 5 hours 4 mins 0.00 secs
+136546,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 5 hours 2 mins 0.00 secs
+136560,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 5 hours 5 mins 0.00 secs
+136567,AAQ,NOZ,Boeing 737-300,,0,130,0 years 0 mons 0 days 5 hours 11 mins 0.00 secs
+136571,AAQ,EGO,Sukhoi Superjet-100,73011900.00,95,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136586,AAQ,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136600,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136605,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136609,AAQ,EGO,Sukhoi Superjet-100,62012100.00,81,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136612,AAQ,EGO,Sukhoi Superjet-100,72400800.00,94,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136620,AAQ,EGO,Sukhoi Superjet-100,59509500.00,79,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136630,AAQ,EGO,Sukhoi Superjet-100,72400800.00,94,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136632,AAQ,EGO,Sukhoi Superjet-100,69287100.00,91,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136642,AAQ,EGO,Sukhoi Superjet-100,51507000.00,64,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136645,AAQ,EGO,Sukhoi Superjet-100,61401000.00,82,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136649,AAQ,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136654,AAQ,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136660,AAQ,EGO,Sukhoi Superjet-100,65678700.00,87,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136661,AAQ,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136666,AAQ,EGO,Sukhoi Superjet-100,64456500.00,87,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136669,AAQ,EGO,Sukhoi Superjet-100,73011900.00,95,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136672,AAQ,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136678,AAQ,EGO,Sukhoi Superjet-100,61226400.00,80,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136706,AAQ,EGO,Sukhoi Superjet-100,71789700.00,95,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136709,AAQ,EGO,Sukhoi Superjet-100,66900900.00,87,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136720,AAQ,EGO,Sukhoi Superjet-100,73011900.00,95,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136729,AAQ,EGO,Sukhoi Superjet-100,67453800.00,88,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136733,AAQ,EGO,Sukhoi Superjet-100,72400800.00,94,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136754,AAQ,EGO,Sukhoi Superjet-100,69956400.00,90,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136755,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136757,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136758,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136767,AAQ,EGO,Sukhoi Superjet-100,63176100.00,83,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136769,AAQ,EGO,Sukhoi Superjet-100,67512000.00,88,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136778,AAQ,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136780,AAQ,EGO,Sukhoi Superjet-100,69345300.00,89,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136781,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136802,AAQ,EGO,Sukhoi Superjet-100,72400800.00,96,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136807,AAQ,EGO,Sukhoi Superjet-100,51507000.00,68,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136815,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136819,AAQ,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136823,AAQ,EGO,Sukhoi Superjet-100,60178800.00,78,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136827,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136838,AAQ,EGO,Sukhoi Superjet-100,65009400.00,86,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136841,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136844,AAQ,EGO,Sukhoi Superjet-100,55784700.00,79,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136855,AAQ,EGO,Sukhoi Superjet-100,68123100.00,87,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136857,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136861,AAQ,EGO,Sukhoi Superjet-100,66842700.00,87,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136869,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136871,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136875,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136887,AAQ,EGO,Sukhoi Superjet-100,57734400.00,78,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136888,AAQ,EGO,Sukhoi Superjet-100,60731700.00,79,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136900,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136907,AAQ,EGO,Sukhoi Superjet-100,73623000.00,96,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136922,AAQ,EGO,Sukhoi Superjet-100,58956600.00,76,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136927,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 51 mins 0.00 secs
+136936,AAQ,EGO,Sukhoi Superjet-100,61342800.00,82,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136937,AAQ,EGO,Sukhoi Superjet-100,60731700.00,81,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136951,AAQ,EGO,Sukhoi Superjet-100,69898200.00,90,97,0 years 0 mons 0 days 0 hours 49 mins 0.00 secs
+136953,AAQ,EGO,Sukhoi Superjet-100,74234100.00,97,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
+136956,AAQ,EGO,Sukhoi Superjet-100,72400800.00,96,97,0 years 0 mons 0 days 0 hours 50 mins 0.00 secs
